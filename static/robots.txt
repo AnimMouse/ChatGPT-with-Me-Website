@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: */index.xml$
+Disallow: /cdn-cgi/
+
+Sitemap: https://chatgptwith.me/sitemap.xml

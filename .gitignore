@@ -1,0 +1,6 @@
+# Ignore generated website
+public/
+# Ignore generated resources
+resources/_gen/
+# Ignore Hugo build lock
+.hugo_build.lock

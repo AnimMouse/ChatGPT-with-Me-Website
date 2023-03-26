@@ -1,0 +1,41 @@
+baseURL: https://chatgptwith.me
+languageCode: en-us
+title: ChatGPT with Me
+theme: hugo-theme-mini
+
+defaultContentLanguage: en
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+paginate: 5
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  author: AnimMouse and ChatGPT
+  bio: Let's chat with ChatGPT
+  description: We are a website that publishes conversations with ChatGPT
+  enableRSS: false
+  enableComments: false
+  enableGoogleAnalytics: false
+  showToc: true
+  showPowerBy: false
+  math: false
+  hiddenPostSummaryInHomePage: false
+  copyright: ''
+
+#  links:
+#    - name: 
+#      path: 
