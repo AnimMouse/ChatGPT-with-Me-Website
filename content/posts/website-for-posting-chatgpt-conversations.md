@@ -1,6 +1,8 @@
 ---
 title: Website for posting ChatGPT conversations
 date: 2023-03-27T00:27:00+08:00
+tags:
+  - ChatGPT
 ---
 Is it OK for me to create a website, and post all of my conversation with ChatGPT there?
 

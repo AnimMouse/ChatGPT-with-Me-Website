@@ -13,3 +13,8 @@ Our team of dedicated writers carefully curate the conversations to ensure that 
 Whether you're a student, a professional, or simply curious about the latest developments in AI language models, we invite you to join the conversation and explore the fascinating world of ChatGPT with us.
 
 Thank you for visiting ChatGPT with Me, and we hope you enjoy the conversations!
+
+A project by [Anim Mouse](https://www.animmouse.com)
+
+This website contents is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\
+This website source code is licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)

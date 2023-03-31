@@ -1,8 +1,10 @@
 ---
 title: Bash vs. PowerShell
 date: 2023-03-27T02:11:00+08:00
+tags:
+  - Programming
 ---
-What is the difference between bash and powershell?
+What is the difference between Bash and PowerShell?
 
 > Bash and PowerShell are both command-line interfaces (CLI) used for interacting with operating systems. However, they differ in their design, syntax, and functionality.
 > 
@@ -12,7 +14,7 @@ What is the difference between bash and powershell?
 > 
 > Overall, while both Bash and PowerShell are used for command-line interactions with operating systems, they have different design philosophies and feature sets that make them better suited for different tasks and environments.
 
-Is powershell closer to programming languages like python and c++ than bash?
+Is PowerShell closer to programming languages like python and c++ than bash?
 
 > Yes, PowerShell is closer to programming languages like Python and C++ than Bash. While Bash uses a syntax based on commands and parameters, PowerShell uses a syntax based on object-oriented programming concepts such as variables, functions, classes, and methods. This makes PowerShell more similar to traditional programming languages than Bash.
 > 
@@ -20,7 +22,7 @@ Is powershell closer to programming languages like python and c++ than bash?
 > 
 > In summary, PowerShell is more closely related to traditional programming languages than Bash, due to its syntax and feature set.
 
-is there a scripting language like powershell on linux that is still a CLI, but closer to programming languages like python?
+Is there a scripting language like PowerShell on Linux that is still a CLI, but closer to programming languages like python?
 
 > Yes, there is a scripting language on Linux that is similar to PowerShell in terms of its syntax and feature set, and that is Python.
 > 
@@ -32,7 +34,7 @@ is there a scripting language like powershell on linux that is still a CLI, but 
 > 
 > In summary, Python is a scripting language on Linux that is similar to PowerShell in terms of its syntax and feature set, and is a powerful tool for scripting and automation tasks.
 
-But python is not a CLI shell, no one uses python in CLI
+But Python is not a CLI shell, no one uses Python in CLI
 
 > While Python is not a CLI shell in the same sense as Bash or PowerShell, it can still be used for command-line scripting and automation tasks.
 > 
@@ -44,7 +46,7 @@ But python is not a CLI shell, no one uses python in CLI
 > 
 > So while Python may not be a traditional CLI shell like Bash or PowerShell, it can still be used for command-line scripting and automation tasks on Linux and other operating systems.
 
-I think using python for cli shell is overkill, bash and powershell has a noun-verb style of commands like "echo Hello World" but in python, you have to use "print("Hello World")" instead
+I think using Python for CLI shell is overkill, Bash and PowerShell has a noun-verb style of commands like "echo Hello World" but in python, you have to use "print("Hello World")" instead
 
 > You are correct that using Python as a CLI shell can be overkill for simple tasks that can be done using Bash or PowerShell. Bash and PowerShell are designed specifically for command-line interaction and have a simple, concise syntax that makes them well-suited for many tasks.
 > 
@@ -54,7 +56,7 @@ I think using python for cli shell is overkill, bash and powershell has a noun-v
 > 
 > In summary, while Python may not be the best choice for simple command-line tasks, it can be a powerful tool for more complex tasks that require additional functionality or flexibility.
 
-Is it possible to use powershell on linux?
+Is it possible to use PowerShell on Linux?
 
 > Yes, it is possible to use PowerShell on Linux. Microsoft has released a version of PowerShell that is designed to run on Linux called PowerShell Core.
 > 

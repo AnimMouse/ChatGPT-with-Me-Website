@@ -9,7 +9,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 5
+paginate: 10
 
 markup:
   highlight:
@@ -23,15 +23,18 @@ markup:
     renderer:
       unsafe: true
 
+social:
+  github: https://github.com/AnimMouse/ChatGPT-with-Me-Website
+
 params:
-  author: AnimMouse and ChatGPT
+  author: Anim Mouse and ChatGPT
   bio: Let's chat with ChatGPT
-  description: We are a website that publishes conversations with ChatGPT
-  enableRSS: false
+  description: A website that publishes conversations with ChatGPT
+  enableRSS: true
   enableComments: false
   enableGoogleAnalytics: false
   showToc: true
-  showPowerBy: false
+  showPowerBy: true
   math: false
   hiddenPostSummaryInHomePage: false
   copyright: ''
