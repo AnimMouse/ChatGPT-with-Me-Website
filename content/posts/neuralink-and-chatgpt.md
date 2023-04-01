@@ -2,6 +2,7 @@
 title: Neuralink and ChatGPT
 date: 2023-03-31T19:21:00+08:00
 tags:
+  - ChatGPT
   - AI
   - Brain
 ---

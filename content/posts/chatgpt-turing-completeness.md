@@ -3,6 +3,7 @@ title: ChatGPT's Turing Completeness
 date: 2023-04-01T00:15:00+08:00
 tags:
   - ChatGPT
+  - AI
 ---
 Is ChatGPT Turing complete?
 
