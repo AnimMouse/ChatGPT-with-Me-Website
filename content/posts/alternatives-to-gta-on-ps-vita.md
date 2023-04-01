@@ -4,7 +4,7 @@ date: 2023-03-31T19:06:00+08:00
 tags:
   - Gaming
 ---
-List of alternatives to Grand Theft Auto in PS Vita
+List of alternatives to Grand Theft Auto in PS Vita.
 
 > Here are some alternatives to Grand Theft Auto that are available on the PS Vita:
 > 

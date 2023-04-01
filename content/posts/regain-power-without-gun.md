@@ -4,7 +4,7 @@ date: 2023-04-01T00:21:00+08:00
 tags:
   - Life
 ---
-I feel powerless today ChatGPT, I feel that I can control anything in my life, will buying a gun regain some of my power?
+I feel powerless today ChatGPT, I feel that I can't control anything in my life, will buying a gun regain some of my power?
 
 > I'm sorry to hear that you're feeling powerless today. However, buying a gun is not the answer to regain your power. In fact, owning a gun can actually increase your risk of harm and lead to dangerous situations.
 > 

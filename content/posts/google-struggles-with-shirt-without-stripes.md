@@ -1,5 +1,5 @@
 ---
-title: Google Struggles with "shirt without stripes"
+title: Google struggles with "shirt without stripes"
 date: 2023-03-31T19:04:00+08:00
 tags:
   - Search Engine

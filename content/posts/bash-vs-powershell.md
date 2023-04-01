@@ -14,7 +14,7 @@ What is the difference between Bash and PowerShell?
 > 
 > Overall, while both Bash and PowerShell are used for command-line interactions with operating systems, they have different design philosophies and feature sets that make them better suited for different tasks and environments.
 
-Is PowerShell closer to programming languages like python and c++ than bash?
+Is PowerShell closer to programming languages like Python and C++ than Bash?
 
 > Yes, PowerShell is closer to programming languages like Python and C++ than Bash. While Bash uses a syntax based on commands and parameters, PowerShell uses a syntax based on object-oriented programming concepts such as variables, functions, classes, and methods. This makes PowerShell more similar to traditional programming languages than Bash.
 > 
@@ -22,7 +22,7 @@ Is PowerShell closer to programming languages like python and c++ than bash?
 > 
 > In summary, PowerShell is more closely related to traditional programming languages than Bash, due to its syntax and feature set.
 
-Is there a scripting language like PowerShell on Linux that is still a CLI, but closer to programming languages like python?
+Is there a scripting language like PowerShell on Linux that is still a CLI, but closer to programming languages like Python?
 
 > Yes, there is a scripting language on Linux that is similar to PowerShell in terms of its syntax and feature set, and that is Python.
 > 
@@ -34,7 +34,7 @@ Is there a scripting language like PowerShell on Linux that is still a CLI, but 
 > 
 > In summary, Python is a scripting language on Linux that is similar to PowerShell in terms of its syntax and feature set, and is a powerful tool for scripting and automation tasks.
 
-But Python is not a CLI shell, no one uses Python in CLI
+But Python is not a CLI shell, no one uses Python in CLI.
 
 > While Python is not a CLI shell in the same sense as Bash or PowerShell, it can still be used for command-line scripting and automation tasks.
 > 
@@ -46,7 +46,7 @@ But Python is not a CLI shell, no one uses Python in CLI
 > 
 > So while Python may not be a traditional CLI shell like Bash or PowerShell, it can still be used for command-line scripting and automation tasks on Linux and other operating systems.
 
-I think using Python for CLI shell is overkill, Bash and PowerShell has a noun-verb style of commands like "echo Hello World" but in python, you have to use "print("Hello World")" instead
+I think using Python for CLI shell is overkill, Bash and PowerShell has a noun-verb style of commands like "echo Hello World" but in python, you have to use "print("Hello World")" instead.
 
 > You are correct that using Python as a CLI shell can be overkill for simple tasks that can be done using Bash or PowerShell. Bash and PowerShell are designed specifically for command-line interaction and have a simple, concise syntax that makes them well-suited for many tasks.
 > 

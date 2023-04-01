@@ -4,7 +4,7 @@ date: 2023-03-31T19:19:00+08:00
 tags:
   - Space
 ---
-Earth's helium reserves are vanishing, it is possible to harvest helium on Jupiter and bring it home on Earth?
+Earth's helium reserves are vanishing, is it possible to harvest helium on Jupiter and bring it home on Earth?
 
 > While Jupiter does have a vast supply of helium, it is currently not technologically feasible to harvest helium from the gas giant and bring it back to Earth.
 > 
