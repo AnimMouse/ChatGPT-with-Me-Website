@@ -9,7 +9,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-paginate: 10
+paginate: 15
 
 markup:
   highlight:

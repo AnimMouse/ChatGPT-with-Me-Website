@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2023-03-26T23:43:00+08:00
+date: 2023-04-04T12:55:00+08:00
 ---
 Welcome to ChatGPT with Me!
 
@@ -15,6 +15,8 @@ Whether you're a student, a professional, or simply curious about the latest dev
 Thank you for visiting ChatGPT with Me, and we hope you enjoy the conversations!
 
 A project by [Anim Mouse](https://www.animmouse.com)
+
+This website is hosted on [Cloudflare Pages](https://pages.cloudflare.com).
 
 This website contents is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)\
 This website source code is licensed under [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)

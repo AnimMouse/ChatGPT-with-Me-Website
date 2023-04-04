@@ -12,7 +12,7 @@ Is it OK for me to create a website, and post all of my conversation with ChatGP
 > 
 > In summary, while it's up to you whether or not to create a website and post our conversations there, it's important to use good judgment and be mindful of privacy concerns if you do decide to publish our conversations publicly.
 
-Is there any copyright issues for me to take care? what would be my license for publishing ChatGPT conversations?
+Is there any copyright issues for me to take care? What would be my license for publishing ChatGPT conversations?
 
 > As an AI language model, I am a tool that generates responses based on the input I receive. The intellectual property rights for the content of our conversations belong to OpenAI, the creators of the model.
 > 
