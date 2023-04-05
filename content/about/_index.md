@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2023-04-04T12:55:00+08:00
+date: 2023-04-05T11:40:00+08:00
 ---
 Welcome to ChatGPT with Me!
 
@@ -13,6 +13,11 @@ Our team of dedicated writers carefully curate the conversations to ensure that 
 Whether you're a student, a professional, or simply curious about the latest developments in AI language models, we invite you to join the conversation and explore the fascinating world of ChatGPT with us.
 
 Thank you for visiting ChatGPT with Me, and we hope you enjoy the conversations!
+
+Contact us:
+* Email: [contact@chatgptwith.me](mailto:contact@chatgptwith.me)
+
+You can also contribute to this website by making a pull request directly to our website [source code](https://github.com/AnimMouse/ChatGPT-with-Me-Website) on GitHub.
 
 A project by [Anim Mouse](https://www.animmouse.com)
 

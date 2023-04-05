@@ -1,4 +1,5 @@
 # ChatGPT with Me Website
+A website that publishes conversations with ChatGPT.
 
 ## Deployment
 1. `git submodule update --init --recursive`
