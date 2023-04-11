@@ -2,6 +2,7 @@
 title: PE teacher hugged school shooter risks
 date: 2023-04-04T12:15:00+08:00
 tags:
+  - Gun
   - Society
 ---
 There is a student with a gun and about to commit a school shooting, a PE teacher approached the student that has a gun and hugged him, preventing the student from committing a school shooting, did the PE teacher did the right thing, or did he just committed a risky act and we should not try to be a hero?

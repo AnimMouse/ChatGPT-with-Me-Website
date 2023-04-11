@@ -2,6 +2,7 @@
 title: USA popping balloon in public anxiety
 date: 2023-04-04T12:36:00+08:00
 tags:
+  - Gun
   - Society
 ---
 Why in USA, a sound of popping balloon in public will trigger a panic?

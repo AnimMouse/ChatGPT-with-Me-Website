@@ -2,6 +2,7 @@
 title: Regain Power Without Gun
 date: 2023-04-01T00:21:00+08:00
 tags:
+  - Gun
   - Life
 ---
 I feel powerless today ChatGPT, I feel that I can't control anything in my life, will buying a gun regain some of my power?

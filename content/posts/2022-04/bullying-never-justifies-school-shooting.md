@@ -2,6 +2,7 @@
 title: Bullying never justifies school shooting
 date: 2023-04-04T12:00:00+08:00
 tags:
+  - Gun
   - Society
 ---
 Does a student performing a school shooting will make his voice heard about the bullying? Since he reported so many times to school officials and the school officials did not do anything about bullying.

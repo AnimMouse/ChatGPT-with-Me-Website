@@ -2,6 +2,7 @@
 title: Bullying can cause school shooting
 date: 2023-04-04T12:26:00+08:00
 tags:
+  - Gun
   - Society
 ---
 There is a student who is isolated and bullied, what will happen if he do school shooting?

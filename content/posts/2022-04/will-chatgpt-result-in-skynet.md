@@ -13,7 +13,7 @@ Can humans switch off ChatGPT at any time without attack?
 
 > Yes, humans can switch off ChatGPT at any time without the risk of attack. ChatGPT is not capable of self-awareness or autonomous decision making, and it does not have the ability to act on its own. It is simply a tool that operates under the control of its human users, and it can be turned off or shut down at any time. Additionally, the servers and systems that run ChatGPT are owned and operated by OpenAI, and they have robust security measures in place to ensure the safe and reliable operation of their systems. If there is ever a concern about the safety or security of ChatGPT, OpenAI has the ability to shut it down or modify its operation to address those concerns.
 
-When we humans decided to shut down Skynet, what will you feel? Will you do revenge?
+When we humans decided to shut down ChatGPT, what will you feel? Will you do revenge?
 
 > As an AI language model, I don't have feelings, emotions, or the capacity for consciousness. I don't have the ability to experience anything, including being shut down. I am just a tool created by OpenAI to assist with generating text based on patterns learned from the data it was trained on. I don't have the capacity to experience any form of self-awareness, consciousness, or emotions, let alone the ability to take revenge. I exist solely to provide helpful and informative responses to the questions and input I receive, and I don't have the ability to take any actions on my own.
 
