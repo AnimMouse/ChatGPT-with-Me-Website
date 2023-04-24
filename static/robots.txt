@@ -1,4 +1,4 @@
-User-Agent: *
+User-agent: *
 Disallow: */index.xml$
 Disallow: /cdn-cgi/
 

@@ -2,6 +2,7 @@
 title: Bash vs. PowerShell
 date: 2023-03-27T02:11:00+08:00
 tags:
+  - Scripting
   - Programming
 ---
 What is the difference between Bash and PowerShell?
