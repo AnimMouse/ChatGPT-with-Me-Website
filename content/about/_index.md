@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2023-04-05T11:40:00+08:00
+date: 2023-05-02T01:00:00+08:00
 ---
 Welcome to ChatGPT with Me!
 
@@ -19,7 +19,9 @@ Contact us:
 
 You can also contribute to this website by making a pull request directly to our website [source code](https://github.com/AnimMouse/ChatGPT-with-Me-Website) on GitHub.
 
-A project by [Anim Mouse](https://www.animmouse.com)
+A project by [Anim Mouse](https://www.animmouse.com).
+
+Powered by [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) for export to Markdown.
 
 This website is hosted on [Cloudflare Pages](https://pages.cloudflare.com).
 

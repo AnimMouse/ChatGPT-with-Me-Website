@@ -1,5 +1,5 @@
 ---
-title: Quiet New Item in PowerShell
+title: Quiet New-Item in PowerShell
 date: 2023-04-24T21:13:00+08:00
 tags:
   - Scripting

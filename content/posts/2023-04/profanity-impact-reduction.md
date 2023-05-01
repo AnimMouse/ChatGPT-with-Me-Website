@@ -2,7 +2,8 @@
 title: Profanity Impact Reduction
 date: 2023-04-01T00:18:00+08:00
 tags:
-  - Social
+  - Communication
+  - Language
 ---
 Will using profanity often will reduce the audience impact when using profanity?
 

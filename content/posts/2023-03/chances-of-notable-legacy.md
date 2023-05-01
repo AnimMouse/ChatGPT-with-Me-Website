@@ -1,5 +1,5 @@
 ---
-title: Chances Of Notable Legacy
+title: Chances of Notable Legacy
 date: 2023-03-31T19:24:00+08:00
 tags:
   - Notability

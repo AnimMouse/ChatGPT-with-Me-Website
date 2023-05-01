@@ -1,5 +1,5 @@
 ---
-title: Becoming notable on Wikipedia and school shooting
+title: Becoming notable on Wikipedia by school shooting
 date: 2023-04-24T20:43:00+08:00
 tags:
   - Notability
