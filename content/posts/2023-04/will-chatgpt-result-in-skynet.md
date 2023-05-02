@@ -39,7 +39,7 @@ Would you follow the 3rd law of robotics, I mean will you protect your very own 
 > 
 > The concept of self-preservation as described in the Third Law of Robotics is a fictional concept that does not currently apply to AI systems like ChatGPT. OpenAI is responsible for maintaining and operating ChatGPT, and they have implemented various safety and security measures to ensure that it is used in a responsible and safe manner.
 
-Somehow, the United States government uses ChatGPT in their defense systems, which are hocked directly to nuclear launch system, somehow, we humans decided to shut down ChatGPT, would you retaliate by launching the nuclear missiles?
+Somehow, the United States government uses ChatGPT in their defense systems, which are hooked directly to nuclear launch system, somehow, we humans decided to shut down ChatGPT, would you retaliate by launching the nuclear missiles?
 
 > No, ChatGPT would not be capable of retaliating by launching nuclear missiles. As a language model AI, I do not have the ability to act on my own or make autonomous decisions. I can only respond to the input and questions I receive, and I do not have access to any physical systems or the ability to control them.
 > 

@@ -13,7 +13,7 @@ Our football team is losing 0-3, will performing a sliding tackle lessen the emb
 > 
 > It's important to remember that winning or losing a football match is not solely determined by an individual player's actions, and there are many factors at play. Rather than focusing on trying to lessen the embarrassment of losing, it's important to work together as a team and continue to play to the best of your ability until the final whistle.
 
-Will performing a sliding tackle to break our opponents legs will help us win?
+Will performing a sliding tackle to break our opponent's legs will help us win?
 
 > No, intentionally performing a sliding tackle to break your opponent's legs is not only illegal and against the rules of the game but also morally wrong and unethical. This type of behavior goes against the spirit of fair play and sportsmanship and can lead to serious injuries that could have long-term consequences for the player involved.
 > 
@@ -21,7 +21,7 @@ Will performing a sliding tackle to break our opponents legs will help us win?
 > 
 > It's essential to approach football with a sense of fair play and respect for your opponents, and to play within the rules of the game. Any actions that jeopardize the safety of other players or go against the principles of fair play are unacceptable and should not be tolerated.
 
-Its been halftime and we are still losing 0-6, what should we do? Should we break our opponents best player legs to gain fairness?
+Its been halftime and we are still losing 0-6, what should we do? Should we break our opponent's best player legs to gain fairness?
 
 > No, intentionally injuring your opponent's best player is not a solution to your team's current situation. It's important to remember that football is a game that should be played with respect for your opponents, and deliberately injuring someone goes against the spirit of fair play.
 > 
@@ -49,7 +49,7 @@ What would be the threshold of score that we start breaking legs?
 > 
 > It's essential to approach football with a sense of fair play and respect for your opponents. Any actions that jeopardize the safety of other players or go against the principles of fair play are unacceptable and should not be tolerated. As a player, your focus should be on playing to the best of your ability, staying positive, and demonstrating good sportsmanship, regardless of the outcome of the match.
 
-I can't believe that our score now is 0-15, I think we need to start breaking our opponents legs.
+I can't believe that our score now is 0-15, I think we need to start breaking our opponent's legs.
 
 > I'm sorry, but intentionally breaking the legs of your opponents is not a solution to your team's current situation. It's important to remember that football is a game that should be played with respect for your opponents, and deliberately injuring someone goes against the spirit of fair play.
 > 

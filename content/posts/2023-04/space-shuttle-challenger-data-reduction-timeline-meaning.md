@@ -5,7 +5,7 @@ tags:
   - Space
 ---
 _Prompt_: 
-In Space Shuttle Challenger timeline, what does this mean: "End of last reconstructured data frame with valid synchronization and frame count".
+In Space Shuttle Challenger timeline, what does this mean: "End of last reconstructured data frame with valid synchronization and frame count."
 
 The phrase "End of last reconstructed data frame with valid synchronization and frame count" refers to a critical moment in the timeline leading up to the tragic explosion of the Space Shuttle Challenger on January 28, 1986.
 
@@ -16,7 +16,7 @@ The fact that this phrase includes the phrase "with valid synchronization and fr
 Overall, this phrase likely indicates that the shuttle's systems were functioning normally and that there were no major issues or malfunctions up to this point in the mission. However, as we know, tragically, the mission would end in disaster just moments later, as the shuttle exploded during liftoff.
 
 _Prompt_: 
-What does this mean in the timeline: "Last radio frequency signal from orbiter".
+What does this mean in the timeline: "Last radio frequency signal from orbiter."
 
 In the context of the Space Shuttle Challenger disaster, the phrase "Last radio frequency signal from orbiter" refers to the moment when the communication between the shuttle and the ground crew was lost. This occurred just moments after the shuttle exploded during liftoff on January 28, 1986.
 
@@ -34,7 +34,7 @@ It's possible that some data was lost before the radio signal from the shuttle w
 However, it's also possible that all the critical data was transmitted successfully before the loss of the radio signal. The exact timing and sequence of events leading up to the explosion of the Challenger were analyzed extensively during the investigation that followed, and it was determined that the explosion was caused by a failure in one of the shuttle's solid rocket boosters. While it's impossible to know for certain what data may have been lost in the moments leading up to the explosion, it's likely that the most critical data had already been transmitted to the ground crew by the time the explosion occurred.
 
 _Prompt_: 
-What does this mean in the timeline: "Last validated orbiter telemetry measurement".
+What does this mean in the timeline: "Last validated orbiter telemetry measurement."
 
 In the context of the Space Shuttle Challenger disaster, the phrase "Last validated orbiter telemetry measurement" refers to the final measurement of critical data transmitted from the shuttle to the ground crew before the shuttle exploded during liftoff on January 28, 1986.
 

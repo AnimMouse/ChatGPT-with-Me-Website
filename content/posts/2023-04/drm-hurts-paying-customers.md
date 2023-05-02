@@ -16,7 +16,7 @@ I think DRM is stupid and only hurts paying customers. I have a TV without Widev
 > 
 > Ultimately, it's up to each individual to make their own choices about how they consume and access digital content. However, it's important to recognize the potential consequences of those choices and to support the creation and distribution of content in a legal and ethical manner.
 
-But technically I did not "pirate" since I have a Netfix subscription, I just downloaded it from torrents that allow me to stream at 4K, right?
+But technically I did not "pirate" since I have a Netflix subscription, I just downloaded it from torrents that allow me to stream at 4K, right?
 
 > Downloading content from torrents without proper authorization or payment is still considered piracy, even if you have a Netflix subscription. The fact that you obtained the content from an unauthorized source, rather than through Netflix's licensed distribution channels, means that you did not pay for the right to use that content.
 > 
@@ -65,7 +65,7 @@ Is there an alternative to Netflix without those stupid DRM?
 > 
 > It's important to note that while these services may offer more flexible DRM policies or higher quality streaming options, they still require legal and ethical means of accessing the content. Additionally, the availability and quality of content may vary depending on your location and device compatibility, so it's important to do your research and choose a streaming service that fits your needs and preferences.
 
-They use DRM to protect from piracy, and yet I can stream at 4K from torrents, are DRM just straight-up broken at this point?
+They use DRM to protect from piracy, and yet I can stream at 4K from torrents, are DRM just straight up broken at this point?
 
 > While DRM technologies are intended to protect content from unauthorized distribution and piracy, they are not foolproof and can sometimes be circumvented.
 > 

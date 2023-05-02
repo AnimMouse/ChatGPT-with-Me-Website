@@ -4,7 +4,7 @@ date: 2023-04-01T01:10:00+08:00
 tags:
   - Society
 ---
-According to General Social Survey, in 2008, male sexlessness started rising, what would be the probably cause in 2008 that made it rise?
+According to General Social Survey, in 2008, male sexlessness started rising, what would be the probable cause in 2008 that made it rise?
 
 > The General Social Survey (GSS) is a valuable tool for measuring trends in various aspects of American society, including sexual behavior. However, it's important to keep in mind that the GSS and other survey data can only suggest possible explanations for trends and that multiple factors are likely involved.
 > 

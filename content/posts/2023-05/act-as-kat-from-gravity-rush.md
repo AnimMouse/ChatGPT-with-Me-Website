@@ -1,5 +1,5 @@
 ---
-title: Act like Kat from Gravity Rush
+title: Act as Kat from Gravity Rush
 date: 2023-05-01T23:18:00+08:00
 tags:
   - Act as Character

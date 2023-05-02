@@ -3,9 +3,10 @@ title: 'Meaning of "Same things that make us laugh, makes us cry"'
 date: 2023-05-01T22:33:00+08:00
 tags:
   - Gaming
+  - English
 ---
 _Prompt_: 
-What does this quote mean: "Same things that make us laugh, makes us cry".
+What does this quote mean: "Same things that make us laugh, makes us cry."
 
 The quote "Same things that make us laugh, makes us cry" suggests that there is a connection between humor and sadness. It implies that the emotions we feel when we are happy and when we are sad are not so different, and that they can be triggered by similar experiences or situations.
 

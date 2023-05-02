@@ -5,7 +5,7 @@ tags:
   - GTA V
   - Gaming
 ---
-List of electric cars in GTA V
+List of electric cars in GTA V.
 
 > Here is a list of electric cars that can be found in Grand Theft Auto V:
 > 

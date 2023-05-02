@@ -32,7 +32,7 @@ If violence is not the answer, why does states that practice monopoly of violenc
 > 
 > It's important to remember that violence is not a sustainable or ethical solution to problems, and societies that prioritize peaceful and non-violent means of conflict resolution tend to be more resilient and successful in the long run.
 
-States that does not have monopoly of violence not peaceful at all, why is that?
+States that does not have monopoly of violence are not peaceful at all, why is that?
 
 > The concept of a monopoly of violence refers to the idea that a state, as a legitimate governing authority, has the exclusive right to use force or violence to maintain order, enforce laws, and protect its citizens. States that do not have a monopoly of violence may experience instability, insecurity, and lack of effective governance, which can contribute to unrest and violence in various forms. However, it is important to note that the absence of a monopoly of violence does not necessarily mean that a state or society is inherently violent or incapable of achieving peace.
 > 

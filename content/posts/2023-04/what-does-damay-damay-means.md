@@ -14,7 +14,7 @@ What does "damay-damay" means?
 > 
 > However, without more information about the context or the language in question, it is difficult to provide a precise answer.
 
-That is the right meaning of "damay-damay" in tagalog, is to involve others, what are the synonym in English? Like for example: "damay-damay na ito sa nagyari saatin".
+That is the right meaning of "damay-damay" in Tagalog, is to involve others, what are the synonym in English? Like for example: "damay-damay na ito sa nagyari saatin."
 
 > In the context you provided, "damay-damay" can be translated to "this involves all of us in what happened to us."
 > 

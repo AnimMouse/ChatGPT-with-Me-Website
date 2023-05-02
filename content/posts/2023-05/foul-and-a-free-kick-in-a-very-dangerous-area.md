@@ -7,7 +7,7 @@ tags:
   - Gaming
 ---
 _Prompt_: 
-I performed a sliding tackle to my opponent on football, and the announcer says "foul and a free kick in a very dangerous area", what does that mean?
+I performed a sliding tackle to my opponent on football, and the announcer says "foul and a free kick in a very dangerous area," what does that mean?
 
 In football (soccer), a sliding tackle is a defensive move where a player attempts to dispossess an opponent by sliding along the ground and taking the ball away with their feet. However, if the sliding tackle is executed in a reckless or dangerous manner, it can result in a foul being called by the referee.
 

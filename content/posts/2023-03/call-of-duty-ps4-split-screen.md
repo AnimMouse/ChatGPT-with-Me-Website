@@ -13,13 +13,13 @@ What are the Call of Duty games in PS4 with split screen with bots?
 > 
 > Both of these games are available on PS4 and offer split screen with bots, making them great options for players who want to play offline with a friend or family member.
 
-Does the game Call of Duty WWII has split screen with bots?
+Does the game Call of Duty: WWII has split screen with bots?
 
 > Yes, Call of Duty: WWII does have split screen with bots available in its offline multiplayer mode, called "Local Play." In this mode, players can play with and against AI-controlled bots on a variety of maps and game modes while playing split screen with a friend.
 > 
 > Please note that in order to access the Local Play mode in Call of Duty: WWII, players will need to have an internet connection to download and install the necessary game updates. Once the updates are installed, players can access the Local Play mode from the game's main menu.
 
-List all the Call of Duty games on PS4 with split screen with bots
+List all the Call of Duty games on PS4 with split screen with bots.
 
 > Here is a list of all the Call of Duty games available on PS4 that offer split screen with bots in their offline multiplayer mode:
 > 

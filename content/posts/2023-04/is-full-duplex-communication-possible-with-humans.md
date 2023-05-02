@@ -36,7 +36,7 @@ Why did you say that full-duplex communication is possible with humans if humans
 > 
 > In effective communication, it's important for all parties to practice active listening, respect each other's opinions, and take turns expressing their thoughts and ideas. Taking turns allows for better understanding, clarifications, and a more constructive exchange of ideas. It fosters mutual respect and helps to build better relationships, even in the midst of disagreements.
 
-Taking turns is not full-duplex, its half-duplex
+Taking turns is not full-duplex, it's half-duplex.
 
 > You are correct. I apologize for the error in my previous response.
 > 
