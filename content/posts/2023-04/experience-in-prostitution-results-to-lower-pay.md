@@ -5,7 +5,7 @@ tags:
   - Society
 ---
 _Prompt_: 
-In all of the industry, being more experienced results to higher play, like for example a doctor with more experience have higher pay, but in prostitution, more experience have lesser pay, why is that? That does not make any sense.
+In all of the industry, being more experienced results to higher pay, like for example a doctor with more experience have higher pay, but in prostitution, more experience have lesser pay, why is that? That does not make any sense.
 
 Firstly, it's important to clarify that prostitution is illegal in many countries and is not considered a legitimate industry or profession. However, to address your question, it's important to understand that prostitution operates outside of the legal and regulated job market, which means that standard economic principles do not apply.
 

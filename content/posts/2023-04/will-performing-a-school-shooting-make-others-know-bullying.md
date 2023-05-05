@@ -1,5 +1,5 @@
 ---
-title: Bullying never justifies school shooting
+title: Will performing a school shooting make others know bullying?
 date: 2023-04-04T12:00:00+08:00
 tags:
   - Gun
