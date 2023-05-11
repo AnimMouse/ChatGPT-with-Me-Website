@@ -1,5 +1,5 @@
 ---
-title: Will performing a school shooting make others know bullying?
+title: Will performing a school shooting make others know about bullying?
 date: 2023-04-04T12:00:00+08:00
 tags:
   - Gun

@@ -2,6 +2,7 @@
 title: Are defenders useless in basketball?
 date: 2023-04-01T01:24:00+08:00
 tags:
+  - Basketball
   - Sports
 ---
 Are defenders in basketball virtually useless? They mostly can't steal the ball because of the rules, mostly a change of possession happen because of a shooting attempt.

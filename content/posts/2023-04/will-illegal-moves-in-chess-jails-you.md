@@ -2,6 +2,7 @@
 title: Will illegal moves in chess jails you?
 date: 2023-04-11T14:25:00+08:00
 tags:
+  - Chess
   - Sports
   - Gaming
   - Joke

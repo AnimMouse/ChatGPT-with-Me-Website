@@ -2,8 +2,10 @@
 title: Will guns in chess ensure checkmate?
 date: 2023-04-11T14:48:00+08:00
 tags:
+  - Chess
   - Gun
   - Sports
+  - Gaming
 ---
 Will bringing a gun in a chess match ensure checkmate?
 
