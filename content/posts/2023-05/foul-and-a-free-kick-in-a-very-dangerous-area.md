@@ -3,6 +3,7 @@ title: Foul and a free kick in a very dangerous area
 date: 2023-05-01T22:48:00+08:00
 tags:
   - Football
+  - Foul
   - Sports
   - Gaming
 ---

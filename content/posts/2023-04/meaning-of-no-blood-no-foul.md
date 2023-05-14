@@ -4,6 +4,7 @@ date: 2023-04-24T21:09:00+08:00
 tags:
   - Law
   - Sports
+  - Foul
 ---
 _Prompt_: 
 What does "no blood, no foul" means?

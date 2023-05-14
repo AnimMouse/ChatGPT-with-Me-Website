@@ -2,6 +2,7 @@
 title: Car insurance declines racing but health insurance allows pre-existing condition is unfair
 date: 2023-05-11T17:51:00+08:00
 tags:
+  - Car
   - Finance
 ---
 _Prompt_: 

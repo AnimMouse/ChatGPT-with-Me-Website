@@ -4,6 +4,7 @@ date: 2023-05-05T20:52:00+08:00
 tags:
   - Football
   - Sports
+  - Foul
 ---
 _Prompt_: 
 I performed a sliding tackle to my opponent in football, tripping him, after the tackle, I got red card, what should I do now?

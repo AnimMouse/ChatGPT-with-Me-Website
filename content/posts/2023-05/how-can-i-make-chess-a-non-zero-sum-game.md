@@ -1,5 +1,5 @@
 ---
-title: How can I make chess a non-zero sum game?
+title: How can I make chess a non-zero-sum game?
 date: 2023-05-11T23:08:00+08:00
 tags:
   - Game theory

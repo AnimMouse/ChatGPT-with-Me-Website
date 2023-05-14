@@ -4,6 +4,7 @@ date: 2023-05-01T22:52:00+08:00
 tags:
   - Basketball
   - Sports
+  - Foul
 ---
 _Prompt_: 
 We will have a basketball match with male and female players, and one of the rules we agreed are "no foul," what does "no foul" means in this context?
