@@ -1,5 +1,5 @@
 ---
-title: How to stop dizziness during boxing after getting hit
+title: How to stop dizziness during boxing after getting hit?
 date: 2023-05-16T23:31:00+08:00
 tags:
   - Sports

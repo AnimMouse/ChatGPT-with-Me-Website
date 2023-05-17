@@ -1,5 +1,5 @@
 ---
-title: Is performing a BeamNG in real life illegal
+title: Is performing a BeamNG in real life illegal?
 date: 2023-05-16T23:55:00+08:00
 tags:
   - Gaming
