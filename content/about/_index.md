@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2023-05-23T20:44:00+08:00
+date: 2023-08-30T00:44:00+08:00
 ---
 Welcome to ChatGPT with Me!
 
@@ -17,13 +17,20 @@ Thank you for visiting ChatGPT with Me, and we hope you enjoy the conversations!
 Contact us:
 * Email: [contact@chatgptwith.me](mailto:contact@chatgptwith.me)
 
+Taglines:
+* March 2023 - May 2023: Let's chat with ChatGPT.
+* May 2023 - August 2023: Tackling every topic, one conversation at a time.
+* August 2023 - present: With the power of ChatGPT, you will all know who I am.
+
 You can also contribute to this website by making a pull request directly to our website [source code](https://github.com/AnimMouse/ChatGPT-with-Me-Website) on GitHub.
 
 A project by [Anim Mouse](https://www.animmouse.com).
 
 Logo designed by [DALL-E 2](https://labs.openai.com/s/VmYZsPvKIMxJsFeAN3G4uEGT).
 
-Powered by [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) for export to Markdown.
+Powered by these programs for export to Markdown:
+* April 2023 - May 2023: [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export)
+* August 2023 - present: [esteinmann/chatgpt-convdown](https://github.com/esteinmann/chatgpt-convdown)
 
 This website is hosted on [Cloudflare Pages](https://pages.cloudflare.com).
 
