@@ -7,10 +7,10 @@ tags:
   - Filipino
 ---
 ## You
-Alin dito ang hindi expressway sa Pilipinas?
-A. NLEX
-B. SLEX
-C. CALAX
+Alin dito ang hindi expressway sa Pilipinas?\
+A. NLEX\
+B. SLEX\
+C. CALAX\
 D. LITEX
 
 ## ChatGPT
