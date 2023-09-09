@@ -1,11 +1,11 @@
 ---
-title: What does precision industry means and what does that industry produces?
+title: What does "precision industry" means and what does that industry produces?
 date: 2023-08-30T12:58:00+08:00
 tags:
   - Industry
 ---
 ## You
-What does "precision Industry" means and what does that industry produces?
+What does "precision industry" means and what does that industry produces?
 
 ## ChatGPT
 The term "precision industry" typically refers to an industry sector that specializes in the production and manufacturing of high-precision components, parts, and equipment. These industries focus on achieving exceptional levels of accuracy, consistency, and quality in their manufacturing processes.

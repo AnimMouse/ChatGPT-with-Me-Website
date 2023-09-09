@@ -2,6 +2,7 @@
 title: Why do we allow LTE in unlicensed spectrum if cellular network operators has already have exclusive access to licensed spectrum?
 date: 2023-08-30T00:32:00+08:00
 tags:
+  - Telecommunication
   - Networking
 ---
 ## You
