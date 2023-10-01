@@ -2,7 +2,7 @@
 title: Is there a car that can run on heavy fuel oil?
 date: 2023-08-30T12:26:00+08:00
 tags:
-  - Car
+  - Automotive
 ---
 ## You
 Most ships uses HFO or bunker fuel as it is cheaper than diesel, can I run my car with HFO to save money?

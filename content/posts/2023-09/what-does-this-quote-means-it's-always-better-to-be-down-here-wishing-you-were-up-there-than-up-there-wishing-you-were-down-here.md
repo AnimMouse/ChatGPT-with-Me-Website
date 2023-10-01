@@ -2,7 +2,7 @@
 title: 'What does this quote means: "It’s always better to be down here wishing you were up there than up there wishing you were down here"'
 date: 2023-09-09T20:58:00+08:00
 tags:
-  - Airplane
+  - Aviation
 ---
 ## You
 In aviation, what does this quote means: "It's always better to be down here wishing you were up there than up there wishing you were down here."

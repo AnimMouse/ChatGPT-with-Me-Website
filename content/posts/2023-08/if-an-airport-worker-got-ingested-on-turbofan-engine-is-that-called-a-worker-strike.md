@@ -2,7 +2,7 @@
 title: 'If an airport worker got ingested on turbofan engine, is that called a "worker strike?"'
 date: 2023-08-30T00:09:00+08:00
 tags:
-  - Airplane
+  - Aviation
   - Joke
 ---
 ## You

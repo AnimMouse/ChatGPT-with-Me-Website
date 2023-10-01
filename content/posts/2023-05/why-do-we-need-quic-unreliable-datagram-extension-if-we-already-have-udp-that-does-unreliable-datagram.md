@@ -4,9 +4,10 @@ date: 2023-05-17T00:43:00+08:00
 tags:
   - Networking
 ---
-_Prompt_: 
+## You
 What is the QUIC protocol's Unreliable Datagram Extension?
 
+## ChatGPT
 The QUIC protocol's Unreliable Datagram Extension is a feature that allows QUIC to send datagrams (packets) that are unreliable, meaning that they are not guaranteed to be delivered to the recipient. This is in contrast to the normal QUIC behavior, which guarantees reliable delivery of packets using a congestion control mechanism and retransmissions.
 
 The Unreliable Datagram Extension allows QUIC to send packets that are not critical to the application's operation, such as non-essential metadata or video frames in a real-time video stream. By sending these packets as unreliable datagrams, QUIC can reduce the overhead of maintaining a reliable connection, which can improve performance in some cases.
@@ -15,9 +16,10 @@ To use the Unreliable Datagram Extension, a sender includes the UNRELIABLE flag 
 
 It's worth noting that the Unreliable Datagram Extension is an optional feature of QUIC, and its use is determined by the application using QUIC. Some applications may have use cases where all packets need to be delivered reliably, while others may benefit from the reduced overhead of sending some packets as unreliable datagrams.
 
-_Prompt_: 
+## You
 Why do we need QUIC Unreliable Datagram Extension if we already have UDP that does unreliable datagram?
 
+## ChatGPT
 While it is true that UDP provides unreliable datagram transport, QUIC's Unreliable Datagram Extension offers several advantages over using UDP directly in some cases.
 
 Firstly, QUIC provides additional functionality beyond what UDP offers, such as congestion control, retransmissions, and flow control. These features help to improve the overall reliability and performance of the connection, even when sending unreliable datagrams.
@@ -28,9 +30,10 @@ Lastly, QUIC's Unreliable Datagram Extension provides a way to send unreliable d
 
 Overall, while UDP can provide unreliable datagram transport, QUIC's Unreliable Datagram Extension can offer additional benefits and integration with the broader QUIC protocol suite.
 
-_Prompt_: 
+## You
 QUIC was invented to replace TCP by doing reliable transport, with QUIC Unreliable Datagram Extension, is QUIC now trying to replace UDP?
 
+## ChatGPT
 QUIC was not specifically designed to replace either TCP or UDP, but rather to provide a new, modern transport protocol for the internet that improves upon the limitations of existing protocols.
 
 While QUIC's primary focus is on reliable transport, the Unreliable Datagram Extension was added to provide additional flexibility to the protocol, allowing it to support both reliable and unreliable transport modes. The intention of the Unreliable Datagram Extension is not to replace UDP, but rather to provide a way to send unreliable data within the context of a QUIC connection, which has other benefits beyond just unreliable transport.

@@ -2,7 +2,7 @@
 title: What is culumogranite?
 date: 2023-08-30T12:38:00+08:00
 tags:
-  - Airplane
+  - Aviation
   - Joke
 ---
 ## You
