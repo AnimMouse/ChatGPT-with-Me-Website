@@ -3,6 +3,7 @@ title: Difference between "check brakes" and "brake check"
 date: 2023-08-29T23:58:00+08:00
 tags:
   - Automotive
+  - Semantics
 ---
 ## You
 What is the difference between "check brakes" and "brake check?"

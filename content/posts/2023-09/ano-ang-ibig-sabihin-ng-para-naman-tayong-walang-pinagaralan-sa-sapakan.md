@@ -5,6 +5,7 @@ tags:
   - Tagalog
   - Filipino
   - Society
+  - Semantics
 ---
 ## You
 May dalawang taong nag-aaway tapos gusto nang mag-sapakan, sabi ng isang tao "Para naman tayong walang pinagaralan niyan," ano ang ibig sabihin ng walang pinagaralan sa kontexto na ito?

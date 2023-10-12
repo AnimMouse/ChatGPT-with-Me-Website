@@ -4,6 +4,7 @@ date: 2023-08-30T00:30:00+08:00
 tags:
   - Maritime
   - Foul
+  - Semantics
 ---
 ## You
 Why the paint used in ships called anti-fouling paint is named anti-fouling? Does it means if a barnacle attached to the hull, it is considered foul?

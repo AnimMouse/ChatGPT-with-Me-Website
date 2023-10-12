@@ -2,6 +2,7 @@
 title: When a school shooting happen, why does the main narrative is to make it harder to buy guns rather than to minimize bullying and foster mental health?
 date: 2023-09-09T20:52:00+08:00
 tags:
+  - School shooting
   - Gun
   - Society
 ---

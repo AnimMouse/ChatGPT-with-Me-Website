@@ -5,6 +5,7 @@ tags:
   - Tagalog
   - Filipino
   - Society
+  - Semantics
 ---
 ## You
 May dalawang taong nag-aaway tapos gusto nang mag-sapakan, sabi ng isang tao "Para naman tayong hindi edukado niyan," ano ang ibig sabihin ng hindi edukado sa kontexto na ito?

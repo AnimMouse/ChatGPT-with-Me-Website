@@ -2,6 +2,7 @@
 title: Is it true that as a commoner, I have no way to become notable in Wikipedia?
 date: 2023-08-30T12:54:00+08:00
 tags:
+  - Wikipedia
   - Notability
   - Famous
 ---

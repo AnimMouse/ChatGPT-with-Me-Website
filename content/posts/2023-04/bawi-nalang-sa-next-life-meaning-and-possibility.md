@@ -5,6 +5,7 @@ tags:
   - Tagalog
   - Filipino
   - Life
+  - Semantics
 ---
 ## You
 What does "bawi nalang sa next life" means?

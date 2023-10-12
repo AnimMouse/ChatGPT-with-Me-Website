@@ -2,12 +2,13 @@
 title: Will using profanity often reduces audience impact?
 date: 2023-04-01T00:18:00+08:00
 tags:
+  - Pragmatics
   - Communication
-  - Language
 ---
-_Prompt_: 
+## You
 Will using profanity often will reduce the audience impact when using profanity?
 
+## ChatGPT
 Using profanity can have different effects on the audience, depending on the context and the tone in which it is used. However, if you use profanity too frequently, it can reduce its impact on the audience and make it seem less significant.
 
 Profanity can be an effective tool for emphasizing strong emotions, making a point, or creating a particular tone or atmosphere. But if you overuse it, it can become repetitive, lose its shock value, and potentially even distract from the intended message.

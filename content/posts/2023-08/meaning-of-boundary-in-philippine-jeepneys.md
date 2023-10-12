@@ -3,6 +3,7 @@ title: Meaning of "boundary" in Philippine jeepneys
 date: 2023-08-30T12:23:00+08:00
 tags:
   - Transportation
+  - Semantics
 ---
 ## You
 What does "boundary" means in context of Philippine jeepneys?
