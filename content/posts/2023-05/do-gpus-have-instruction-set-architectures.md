@@ -2,7 +2,7 @@
 title: Do GPUs have Instruction Set Architectures?
 date: 2023-05-17T00:12:00+08:00
 tags:
-  - Computer Science
+  - Computer science
 ---
 ## You
 In CPU, we have instruction set architectures like x86, ARM, and MIPS, what about on GPU? Do we have ISA there?

@@ -2,8 +2,7 @@
 title: Part 15 of FCC rules is so unfair, the device must not cause interference, but it should accept interference?
 date: 2023-08-30T13:04:00+08:00
 tags:
-  - Radio
-  - Communication
+  - Telecommunication
   - Networking
 ---
 ## You

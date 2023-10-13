@@ -3,6 +3,7 @@ title: What does "precision industry" means and what does that industry produces
 date: 2023-08-30T12:58:00+08:00
 tags:
   - Industry
+  - Semantics
 ---
 ## You
 What does "precision industry" means and what does that industry produces?

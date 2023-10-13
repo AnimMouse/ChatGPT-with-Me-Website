@@ -1,12 +1,12 @@
 ---
-title: Is it ever possible to post in the subreddit "Today I Learned?" Since every time I learned something new, someone already posted it
+title: Is it ever possible to post in the subreddit "Today I Learned"? Since every time I learned something new, someone already posted it
 date: 2023-10-02T01:40:00+08:00
 tags:
   - Reddit
   - Research
 ---
 ## You
-Is it ever possible to post in the subreddit "Today I Learned?" Since every time I learned something new, someone already posted it.
+Is it ever possible to post in the subreddit "Today I Learned"? Since every time I learned something new, someone already posted it.
 
 ## ChatGPT
 Yes, it is possible to post in the subreddit "Today I Learned" (TIL), even if you think someone may have already posted something similar. The key to a successful TIL post is to make sure your submission follows the subreddit's rules and guidelines.

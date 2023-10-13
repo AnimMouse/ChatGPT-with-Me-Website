@@ -6,7 +6,7 @@ tags:
   - Semantics
 ---
 ## You
-What is the difference between "check brakes" and "brake check?"
+What is the difference between "check brakes" and "brake check"?
 
 ## ChatGPT
 "Check brakes" typically refers to the action of inspecting the brakes of a vehicle for any issues or problems. It's a general term that implies a routine examination of the brake system.

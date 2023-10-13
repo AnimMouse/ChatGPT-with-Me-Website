@@ -1,12 +1,12 @@
 ---
-title: If I inserted leap seconds on NIST, did I technically created "time?"
+title: If I inserted leap seconds on NIST, did I technically created "time"?
 date: 2023-08-30T12:46:00+08:00
 tags:
   - Time
   - Joke
 ---
 ## You
-If I inserted leap seconds on NIST, did I technically created "time?"
+If I inserted leap seconds on NIST, did I technically created "time"?
 
 ## ChatGPT
 Inserting leap seconds into the timekeeping system maintained by the National Institute of Standards and Technology (NIST) would not mean that you have created "time" itself. Time is a fundamental concept that exists independently of any specific human measurement or timekeeping system.
