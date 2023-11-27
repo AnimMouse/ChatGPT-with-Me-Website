@@ -27,7 +27,7 @@ social:
   github: https://github.com/AnimMouse/ChatGPT-with-Me-Website
 
 params:
-  author: Anim Mouse and ChatGPT
+  author: Anim Mouse, ChatGPT, and Bard
   bio: With the power of ChatGPT, you will all know who I am
   description: A website that publishes conversations with ChatGPT
   enableRSS: true

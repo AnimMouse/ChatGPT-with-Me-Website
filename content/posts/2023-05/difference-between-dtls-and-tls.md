@@ -4,9 +4,10 @@ date: 2023-05-01T22:31:00+08:00
 tags:
   - Networking
 ---
-_Prompt_: 
+## You
 What is the difference between DTLS and TLS?
 
+## ChatGPT
 DTLS (Datagram Transport Layer Security) and TLS (Transport Layer Security) are both cryptographic protocols that provide secure communication over a network. However, the main difference between the two is the way they handle data transmission.
 
 TLS is designed for stream-oriented data transmission, where data is sent in a continuous stream, and any lost or corrupted packets can be re-transmitted. It is commonly used to secure HTTP traffic, which is used by web browsers to access websites.
