@@ -1,4 +1,4 @@
 https://:project.pages.dev/*
   X-Robots-Tag: none
-https://:ref.:project.pages.dev/*
+https://:commit.:project.pages.dev/*
   X-Robots-Tag: none
