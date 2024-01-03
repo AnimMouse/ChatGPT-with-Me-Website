@@ -1,0 +1,35 @@
+<footer id="footer">
+    {{ if .Site.Social }}
+        {{ partial "social.html" . }}
+    {{ end }}
+
+    <div class="copyright">
+    {{ with .Site.Params.copyright }}
+        {{ . | markdownify }}
+    {{ else }}
+       © Copyright 
+       {{ now.Format "2006"}} 
+       <span class="split">
+        {{ partial "svgs/heart.svg" (dict "fill" "#bbbbbb" "width" 15 "height" 15 ) }}
+       </span>
+       {{ .Site.Params.Author }}
+    {{ end }}
+    </div>
+
+    {{ if ne .Site.Params.showPowerBy false }}
+      <div class="powerby">
+        {{ i18n "poweredBy" | safeHTML }}
+      </div>
+    {{ end }}
+</footer>
+
+{{ range .Site.Params.customJS }}
+    {{ if ( or ( hasPrefix . "http://" ) ( hasPrefix . "https://" ) ) }}
+        <!-- remote js -->
+        <script src="{{ . }}"></script>
+    {{ else }}
+        <!-- local js -->
+        <script src="{{ $.Site.BaseURL }}{{ . }}"></script>
+    {{ end }}
+{{ end }}
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "db31d74fb74a49a8bd28e646ed452381"}'></script><!-- End Cloudflare Web Analytics -->

@@ -2,6 +2,7 @@
 title: If the society views men as stronger than women, then why men has higher suicide rate than women?
 date: 2023-11-27T16:40:00+08:00
 tags:
+  - Society
   - Life
 ---
 ## You
