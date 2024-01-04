@@ -22,7 +22,6 @@
   {{ end }}
 {{ end }}
 
-<link rel="shortcut icon" href="{{ "/favicon.ico" | relURL }}" type="image/x-icon" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -32,7 +31,7 @@
 <meta name="theme-color" content="#603cba" />
 
 {{ if .Site.Params.enableGoogleAnalytics }} 
-    {{ template "_internal/google_analytics_async.html" . }}
+  {{ template "_internal/google_analytics.html" . }}
 {{ end }}
 
 {{ if or .Params.math .Site.Params.math }}
