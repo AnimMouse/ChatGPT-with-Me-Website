@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: {{ replace .TranslationBaseName "-" " " | strings.FirstUpper }}
 date: {{ .Date }}
 tags:
   - 
