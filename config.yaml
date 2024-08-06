@@ -30,7 +30,7 @@ params:
   author: Anim Mouse, ChatGPT, and Gemini
   bio: With the power of ChatGPT, you will all know who I am
   description: A website that publishes conversations with ChatGPT
-  enableRSS: true
+  enableRSS: false
   enableComments: true
   enableGoogleAnalytics: false
   showToc: true
